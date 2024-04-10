@@ -1,4 +1,3 @@
-
 # Subway Pay 
 
 Site para iGaming para coletar moedas através do jogo Subway Surfers, em caso de grande quantidade de solicitações de Saque, podemos utilizar um gateway de pagamento iGaming.
